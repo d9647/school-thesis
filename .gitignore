@@ -23,7 +23,7 @@
 *.bbl
 
 # PDF build artifacts
-*.pdf
+#*.pdf
 
 # Backup files
 *~
